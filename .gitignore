@@ -1,0 +1,15 @@
+bin
+bin/*
+obj
+obj/*
+packages
+packages/*
+_ReSharper*
+*.user
+*.suo
+*~
+TestResults
+TestResults/*
+output
+output/*
+*.pdb
